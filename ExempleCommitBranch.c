@@ -5,6 +5,7 @@ void main(){
 print("Hola!!!")
 funcio1();
 funcionalitatExtra();
+UltimaFuncion();
 printf("Parece que todo va bien pero podria haber salido mal....No lose todavia");
 }
 void funcio1(){
@@ -29,5 +30,6 @@ int res;
 res=x+y;
 
 printf("Resultat:",res);
-printf("Todo esta correcto!!!")
+printf("Todo esta correcto!!!");
+printf("Esta correcto pero se te ha olvidado llamarla en el main chavalin!!!");
 }
