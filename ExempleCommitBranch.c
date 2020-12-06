@@ -7,3 +7,6 @@ funcio1();
 void funcio1(){
     printf("Hola");
 }
+void funcionalitatExtra(){
+    printf("Que tal?")
+}
