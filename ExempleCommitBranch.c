@@ -5,7 +5,7 @@ void main(){
 print("Hola!!!")
 funcio1();
 funcionalitatExtra();
-printf("Parece que todo");
+printf("Parece que todo va bien");
 }
 void funcio1(){
     printf("Hola");
