@@ -20,3 +20,6 @@ void funcionalitatExtrav2(){
 void funcioAfegida(){
     printf("Acabem de fer un merge, i diria que tot a sortit bé");
 }
+funcio Notodoesloqueparece(){
+    printf("Eso no se si esto es asi la verdad!!!");
+}
