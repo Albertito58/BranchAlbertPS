@@ -4,6 +4,7 @@
 void main(){
 funcio1();
 funcionalitatExtra();
+funcio4();
 }
 void funcio1(){
     printf("Hola");
@@ -13,4 +14,7 @@ void funcionalitatExtra(){
 }
 void funcionalitatExtrav2(){
     printf("Quina calor....");
+}
+void funcio4(){
+    printf("Hola per segona vegada...");
 }
