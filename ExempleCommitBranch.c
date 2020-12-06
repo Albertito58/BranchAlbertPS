@@ -20,3 +20,13 @@ void funcionalitatExtrav2(){
 void funcioAfegida(){
     printf("Acabem de fer un merge, i diria que tot a sortit bé");
 }
+
+void UltimaFuncion(){
+print("La combi completa Suma + Multi");
+int x=2+3;
+int y=3*3;
+int res;
+res=x+y;
+
+printf("Resultat:",res);
+}
