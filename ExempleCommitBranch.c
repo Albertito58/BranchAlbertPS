@@ -15,3 +15,7 @@ void funcionalitatExtra(){
 void funcionalitatExtrav2(){
     printf("Quina calor....");
 }
+
+void funcioAfegida(){
+    printf("Acabem de fer un merge, i diria que tot a sortit bé");
+}
