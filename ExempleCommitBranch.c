@@ -4,6 +4,7 @@
 void main(){
 funcio1();
 funcionalitatExtra();
+funcio3();
 }
 void funcio1(){
     printf("Hola");
@@ -13,4 +14,12 @@ void funcionalitatExtra(){
 }
 void funcionalitatExtrav2(){
     printf("Quina calor....");
+}
+
+void funcio3(){
+    printf("LaResta");
+    int x=5;
+    int y=5;
+    res=x-y;
+    printf("Resultat:",res);
 }
