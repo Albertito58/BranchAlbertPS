@@ -3,7 +3,17 @@
 
 void main(){
 funcio1();
+funcio2();
 }
 void funcio1(){
     printf("Hola");
+}
+void funcio2(){
+    int x=2;
+    int y=1;
+
+    int res=x+y;
+
+    printf(res);
+
 }
