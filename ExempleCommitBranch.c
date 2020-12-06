@@ -19,3 +19,6 @@ void funcionalitatExtrav2(){
 void funcio5(){
     printf("Hasta luego chaval");
 }
+void funcio5v2(){
+    printf("Hasta luego compañero");
+}
