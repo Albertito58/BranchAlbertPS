@@ -23,3 +23,11 @@ void funcio4(){
 void funcio4v2(){
     printf("Hola per tercera vegda");
 }
+void extra4(){
+    printf("La multi");
+    int x=2;
+    int y=3;
+
+    int res=x*y;
+    printf("Resultat:",res);
+}
