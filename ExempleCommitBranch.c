@@ -19,3 +19,6 @@ void funcionalitatExtrav2(){
 void funcioAfegida(){
     printf("Acabem de fer un merge, i diria que tot a sortit bé");
 }
+void funcioTodoMal(){
+    printf("Algo no va bien....");
+}
