@@ -5,6 +5,7 @@ void main(){
 print("Hola!!!")
 funcio1();
 funcionalitatExtra();
+funcioAfegida();
 }
 void funcio1(){
     printf("Hola");
@@ -17,5 +18,5 @@ void funcionalitatExtrav2(){
 }
 
 void funcioAfegida(){
-    printf("Acabem de fer un merge, i diria que tot a sortit bé");
+    printf("Todo bien,Todo Correcto");
 }
