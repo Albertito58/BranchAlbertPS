@@ -11,3 +11,6 @@ void funcio1(){
 void funcionalitatExtra(){
     printf("Que tal?")
 }
+void funcionalitatExtrav2(){
+    printf("Quina calor....");
+}
