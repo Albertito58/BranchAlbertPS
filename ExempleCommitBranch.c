@@ -29,4 +29,5 @@ int res;
 res=x+y;
 
 printf("Resultat:",res);
+printf("Todo esta correcto!!!")
 }
