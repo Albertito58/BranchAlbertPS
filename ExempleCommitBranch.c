@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 void main(){
+print("Hola!!!")
 funcio1();
 funcionalitatExtra();
 funcio5();
