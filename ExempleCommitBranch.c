@@ -3,6 +3,7 @@
 
 void main(){
 funcio1();
+funcionalitatExtra();
 }
 void funcio1(){
     printf("Hola");
