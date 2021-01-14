@@ -13,7 +13,7 @@ void funcio1(){
     printf("Hola");
 }
 void funcionalitatExtra(){
-    printf("Que tal?")
+    printf("Que tal?");
 }
 void funcionalitatExtrav2(){
     printf("Quina calor....");
